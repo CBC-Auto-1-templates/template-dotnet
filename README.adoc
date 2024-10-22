@@ -1,0 +1,18 @@
+== Automation DSL Template for .NET
+
+This is a boilerplate template to use as a basis for building .NET applications.
+
+In this template we have a simple .NET Minimal api with Swagger Support.
+
+To start the server, run the following commands:
+
+1. Build application
+
+    dotnet build
+
+2. Start the webserver by running the command
+
+    dotnet run
+
+Once the server is started, navigate to http://localhost:50449 to view swagger UI page.
+
